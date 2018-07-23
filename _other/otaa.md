@@ -1,9 +1,9 @@
 ---
 title: "The Outstanding TA Award"
+collection: other
+type: "award"
 date: 2018-05-20
 permalink: /other/outstandingta
-tags:
-  - award
 ---
 
 I've been given the Outstanding TA Award by the Bilkent University in CS Fair 2018. Thanks for all the voters :). It's a huge honor, fellas.
