@@ -1,6 +1,7 @@
 ---
 title: "The Outstanding TA Award"
 collection: other
+type: "award"
 permalink: /other/outstandingta
 venue: "Bilkent University"
 date: 2018-05-20
