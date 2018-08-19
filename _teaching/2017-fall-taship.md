@@ -3,7 +3,7 @@ title: "Fall 2017 Bilkent TAships"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-fall-taship
-venue: "University 1, Department"
+venue: "Bilkent CS Department"
 date: 2017-09-17
 location: "Ankara, Turkey"
 ---
