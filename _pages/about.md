@@ -8,13 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-
-## About Me
-
 Hello there. I'm Alican, currently pursuing an M.Sc. degree in Computer Science in Bilkent University, Turkey. I'm a member of [Bilkent Information Retrieval Group (BilIR)](http://www.cs.bilkent.edu.tr/~canf/bilir_web/) and advised by [Prof. Fazli Can](http://www.cs.bilkent.edu.tr/~canf/). My Master's Thesis is on multi-label learning in nonstationary data streams.
 
 
-#### Research Interests
+### Research Interests
 
 Apart from multi-label learning and data streams, I'm interested in graph mining, graph theory, representation learning in NLP, adversarial examples and adversarial training in neural networks.
 
@@ -26,7 +23,7 @@ Apart from multi-label learning and data streams, I'm interested in graph mining
 
 
 
-#### Hobbies
+### Hobbies
 
 - I read. You can look at my [Goodreads page](https://www.goodreads.com/user/show/38006745-alican-buyukcakir) for what I'm reading nowadays and what my book taste is like in general. You'll see some classics, magical realism, history of science, scientist biographies, spiritualism and esoterism, scifi/fantasy there.  
 
