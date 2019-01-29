@@ -12,8 +12,8 @@ A Github Pages template for academic websites. This was forked (then detached) b
 # Instructions
 
 TLDR:
-1. _data/navigation.yml --> Tabs on  
-2. _config.yml --> important
+1. _data/navigation.yml --> Navigate tabs on the top. 
+2. _config.yml --> the most important file. configures the whole site.
 3. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 
 More info at https://academicpages.github.io/
