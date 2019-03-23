@@ -17,7 +17,7 @@ author_profile: true
 
 ***
 
-### Notes on the contents the courses listed above:
+## Notes on the contents the courses listed above:
 
 **CS224 - Computer Organization**: MIPS assembly, Verilog, single-cycle, multi-cycle and pipelined datapaths
 
