@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alican Büyükçakır's Personal Webpage"
+title                    : "Alican Büyükçakır"
 title_separator          : "-"
 name                     : &name "Alican Büyükçakır"
 description              : &description "CS Graduate in Bilkent University"
@@ -244,7 +244,7 @@ defaults:
   # _other
   - scope:
       path: ""
-      type: other
+      type: news
     values:
       layout: single
       author_profile: true
