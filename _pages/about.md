@@ -13,7 +13,8 @@ Hello there. I'm Alican, currently pursuing an M.Sc. degree in Computer Science 
 
 ##  Recent News
 
-- **[13 May 2019]**   Received The Outstanding TA Award at CS Fair 2019! 
+- **[11 Jul 2019]**   Defended my M.Sc. Thesis :tada: !
+- **[13 May 2019]**   Received The Outstanding TA Award at CS Fair 2019!
 - **[15 Mar 2019]**   Got accepted to [Danai Koutra](http://web.eecs.umich.edu/~dkoutra/)'s [GEMS Lab](https://gemslab.github.io/) for my Ph.D. in CSE at University of Michigan Ann Arbor! :confetti_ball: :tada:
 
 
