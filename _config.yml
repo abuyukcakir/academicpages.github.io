@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alican Büyükçakır"
 title_separator          : "-"
 name                     : &name "Alican Büyükçakır"
-description              : &description "CS Graduate in Bilkent University"
+description              : &description "CSE Ph.D. Student in University of Michigan, Ann Arbor"
 url                      : https://abuyukcakir.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abuyukcakir.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Alican Büyükçakır"
   avatar           : "profile-photo.jpg"
-  bio              : "M.S. in Computer Science in Bilkent University. Bilkent Information Retrieval Group."
+  bio              : "Ph.D. in Computer Science and Engineering, University of Michigan, Ann Arbor. GEMS Lab."
   location         : "Ankara, Turkey"
   employer         :
   googlescholar    : "https://scholar.google.com.tr/citations?user=OgPxEngAAAAJ&hl=en"
@@ -175,12 +175,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-#  portfolio:
-#    output: true
-#    permalink: /:collection/:path/
-#  talks:
-#    output: true
-#    permalink: /:collection/:path/
   other:
     output: true
     permalink: /:collection/:path/
@@ -224,23 +218,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  #- scope:
-  #    path: ""
-  #    type: portfolio
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comment: true
-  # _talks
-  #- scope:
-  #    path: ""
-  #    type: talks
-  #  values:
-  #    layout: talk
-  #    author_profile: true
-  #    share: true
   # _other
   - scope:
       path: ""
