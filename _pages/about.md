@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello there. I'm Alican, currently pursuing an M.Sc. degree in Computer Science in Bilkent University, Turkey. I'm a member of [Bilkent Information Retrieval Group (BilIR)](http://www.cs.bilkent.edu.tr/~canf/bilir_web/) and advised by [Prof. Fazli Can](http://www.cs.bilkent.edu.tr/~canf/). My Master's Thesis is on multi-label learning in nonstationary data streams.
+I'm Alican, a Ph.D. student in Computer Science and Engineering Department at University of Michigan Ann Arbor. I'm a member of [GEMS Lab](https://gemslab.github.io) where I am advised by [Danai Koutra](http://web.eecs.umich.edu/~dkoutra/).
+
+Formerly, I was a member of [Bilkent Information Retrieval Group (BilIR)](http://www.cs.bilkent.edu.tr/~canf/bilir_web/) and advised by [Prof. Fazli Can](http://www.cs.bilkent.edu.tr/~canf/) at Bilkent University, Turkey. My M.Sc. Thesis was on multi-label learning in nonstationary data streams.
 
 
 ##  Recent News
 
-- **[11 Jul 2019]**   Defended my M.Sc. Thesis! :tada:
+- **[3 Sep 2019]**   Started my Ph.D. journey at University of Michigan, Ann Arbor.
+- **[11 Jul 2019]**   Defended my M.Sc. Thesis!
 - **[13 May 2019]**   Received The Outstanding TA Award at CS Fair 2019!
-- **[15 Mar 2019]**   Got accepted to [Danai Koutra](http://web.eecs.umich.edu/~dkoutra/)'s [GEMS Lab](https://gemslab.github.io/) for my Ph.D. in CSE at University of Michigan Ann Arbor! :confetti_ball: :tada:
 
 
 ## Research Interests

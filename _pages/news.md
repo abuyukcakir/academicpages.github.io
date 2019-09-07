@@ -5,6 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 
+### 3 Sep 2019
+On August 26th, I arrived at Ann Arbor, MI. After a week of orientation programs, welcome parties and city exploration, I finally started my Ph.D. journey at University of Michigan, Ann Arbor. Meanwhile, I moved into a home in Northwood IV, a lovely place at the North Campus.
+
 ### 11 Jul 2019
 Defended my M.Sc. thesis. See a photo with the [jury](/images/eventpics/thesis-defense-1.jpeg), which consists of [Prof. Fazli Can](http://www.cs.bilkent.edu.tr/~canf/), [Prof. Selim Aksoy](http://www.cs.bilkent.edu.tr/~saksoy/) and [Dr. İ. Sengör Altıngövde](http://user.ceng.metu.edu.tr/~altingovde/)
 
