@@ -8,30 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I'm Alican, a Ph.D. student in Computer Science and Engineering Department at University of Michigan Ann Arbor. I'm a member of [GEMS Lab](https://gemslab.github.io) where I am advised by [Danai Koutra](http://web.eecs.umich.edu/~dkoutra/).
+I'm Alican (pronunciation: <script type="text/javascript" src="https://forvo.com/_ext/ext-prons.js?id=5959005"></script>), a Ph.D. student in Computer Science and Engineering Department at University of Michigan Ann Arbor. I'm a member of [GEMS Lab](https://gemslab.github.io) where I am advised by [Danai Koutra](http://web.eecs.umich.edu/~dkoutra/).
 
 Formerly, I was a member of [Bilkent Information Retrieval Group (BilIR)](http://www.cs.bilkent.edu.tr/~canf/bilir_web/) and advised by [Prof. Fazli Can](http://www.cs.bilkent.edu.tr/~canf/) at Bilkent University, Turkey. My M.Sc. Thesis was on multi-label learning in nonstationary data streams.
-
 
 ##  Recent News
 
 - **[3 Sep 2019]**   Started my Ph.D. journey at University of Michigan, Ann Arbor.
+- **[9 Aug 2019]**    One short paper accepted to CIKM 2019.
 - **[11 Jul 2019]**   Defended my M.Sc. Thesis!
-- **[13 May 2019]**   Received The Outstanding TA Award at CS Fair 2019!
 
 
 ## Research Interests
 
-Apart from multi-label learning and data streams, I'm interested in graph mining, graph theory, representation learning in NLP, adversarial examples and adversarial training in neural networks.
+- **Graph (Network) Mining**: Graphs represent all sorts of interconnected systems such as the world wide web, brains, social networks, protein interactions and so on. In graph mining, we want to extract some information and learn insights about how these interconnected systems behave in real world.
 
-- Currently I'm working on multi-label stream data generation methods with concept drifts. This involves generating different types of concept drifts, modeling dynamic dependencies between labels over time, and quantifying the magnitude of drifts.
+- **Data Stream Mining**: Data streams are environments where data with high volume arrives continuously. I tackled multiple problems that take place in data streams throughout my Master's degree years:
+  * **Multi-label classification** is a task where we want to classify instances into a subset of labels rather than one of them, i.e. $y^* \subset \mathcal{L}$. We want to handle this exponentially behaving label space while performing well on the data stream, and adapting the possible changes in the mappings between the data instances and the solution space (called concept drifts).
+  * **Concept drift detection** aims to detect and flag whenever there is a change in the underlying distribution of the data, so that our models can take countermeasures against the drift.   
+  * **Multi-label synthetic data stream generation** where we want to realistically model multi-label stream generators using single-label data stream generators. We also want to be able to simulate all kinds of different concept drifts (gradual, sudden, reoccurring and so on).
+  * **Ensemble pruning** where we want to drastically decrease the size of our ensemble while preserving its predictive performance and diversity at the same time.
 
-- In addition, I'm investigating continuous representations for phrases and sentences in NLP. There has been a significant progress in terms of word representations, but still not much insight on how these representations can be combined together to construct representations for variable-length sequences of words. Capturing semantic information in these representations can improve performance of text classification, sentiment analysis and so on.
-
-- In my first year of master's, I did a survey on [adversarial attacks and adversarial examples](http://github.com/abuyukcakir/adversarial-training-survey). It is a nice introductory article that assumes no prior knowledge on adversarial learning whatsoever.  
+- **Adversarial Attacks and Adversarial Example Generation**: See a [survey](http://github.com/abuyukcakir/adversarial-training-survey) from the first year of my M.Sc. degree. This is an introductory article that assumes no prior knowledge on adversarial learning whatsoever.
 
 
+### Miscellaneous
 
-### Hobbies
-
-- I read. You can look at my [Goodreads page](https://www.goodreads.com/user/show/38006745-alican-buyukcakir) for what I'm reading nowadays and what my book taste is like in general. You'll see some classics, magical realism, history of science, scientist biographies, spiritualism and esoterism, scifi/fantasy there.  
+- ***Books***. You can look at my [Goodreads page](https://www.goodreads.com/user/show/38006745-alican-buyukcakir) for what I'm reading nowadays and what my book taste is like in general. You'll see some classics, magical realism, history of science, philosophy, scientist biographies, spiritualism and esoterism, scifi/fantasy there.
+- ***Manga and Anime***. See my [MyAnimeList](https://myanimelist.net/profile/Abuyukcakir) profile. I follow One Piece since 2012 (perhaps one of the biggest commitments of my life). Here are some of my favourite **series**: HunterxHunter, One Punch Man, Fate/Zero, Steins Gate, Code Geass; and **movies**: Nausicaa, Mononoke Hime, Koe no Katachi, Kimi no na wa, Sakasama no Patema.

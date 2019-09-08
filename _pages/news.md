@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 ### 3 Sep 2019
-On August 26th, I arrived at Ann Arbor, MI. After a week of orientation programs, welcome parties and city exploration, I finally started my Ph.D. journey at University of Michigan, Ann Arbor. Meanwhile, I moved into a home in Northwood IV, a lovely place at the North Campus.
+I arrived at Ann Arbor, MI on August 26th. After a week of orientation programs, welcome parties and city exploration, I finally started my Ph.D. journey at University of Michigan, Ann Arbor. Meanwhile, I moved into a home in Northwood IV, a lovely place at the North Campus.
+
+### 9 Aug 2019
+Our [short paper](/publications/#2019) with Ömer Gözüaçık, Hamed Bonab, and Fazli Can is accepted to ACM CIKM 2019!
 
 ### 11 Jul 2019
 Defended my M.Sc. thesis. See a photo with the [jury](/images/eventpics/thesis-defense-1.jpeg), which consists of [Prof. Fazli Can](http://www.cs.bilkent.edu.tr/~canf/), [Prof. Selim Aksoy](http://www.cs.bilkent.edu.tr/~saksoy/) and [Dr. İ. Sengör Altıngövde](http://user.ceng.metu.edu.tr/~altingovde/)
@@ -24,7 +27,7 @@ Presented my work at [ACM CIKM 2018](https://www.cikm2018.units.it/), Torino, It
 Received a SIGIR Student Travel Grant to present my CIKM 2018 paper.
 
 ### 7 Aug 2018
-Our [paper](/publications/#2018) (with Hamed Bonab and Fazli Can) is accepted for ACM CIKM 2018.
+Our [paper](/publications/#2018) (with Hamed Bonab and Fazli Can) is accepted to ACM CIKM 2018.
 
 ### 20 May 2018
 Received [The Outstanding TA Award](/images/eventpics/outstanding-ta-1.jpg) from Bilkent University at CS Fair 2018.
