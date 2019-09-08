@@ -11,6 +11,7 @@ main:
 
   - title: "Blog"
     url: /blog/
-    
+
   - title: "CV"
     url: /files/personal/cv_abuyukcakir.pdf
+    target: "_blank"

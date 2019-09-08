@@ -36,3 +36,12 @@ Formerly, I was a member of [Bilkent Information Retrieval Group (BilIR)](http:/
 
 - ***Books***. You can look at my [Goodreads page](https://www.goodreads.com/user/show/38006745-alican-buyukcakir) for what I'm reading nowadays and what my book taste is like in general. You'll see some classics, magical realism, history of science, philosophy, scientist biographies, spiritualism and esoterism, scifi/fantasy there.
 - ***Manga and Anime***. See my [MyAnimeList](https://myanimelist.net/profile/Abuyukcakir) profile. I follow One Piece since 2012 (perhaps one of the biggest commitments of my life). Here are some of my favourite **series**: HunterxHunter, One Punch Man, Fate/Zero, Steins Gate, Code Geass; and **movies**: Nausicaa, Mononoke Hime, Koe no Katachi, Kimi no na wa, Sakasama no Patema.
+
+<!--- ADD AFFILIATIONS--->
+### Affilliations
+
+<a href="http://gemslab.github.io">
+  <img src="/images/logo/logo_gemslab.jpg" alt="GEMS Lab" width="25%"></a>
+<img src="/images/logo/logo_umichcse.png" alt="UMich CSE" width="20%">
+<img src="/images/logo/logo_saksagan.png" alt="BilIR" width="20%">
+<img src="/images/logo/logo_bilkent.png" alt="Bilkent University" width="20%">
