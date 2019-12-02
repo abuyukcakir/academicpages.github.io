@@ -21,7 +21,9 @@ Formerly, I was a member of [Bilkent Information Retrieval Group (BilIR)](http:/
 
 ## Research Interests
 
-- **Graph (Network) Mining**: Graphs represent all sorts of interconnected systems such as the world wide web, brains, social networks, protein interactions and so on. In graph mining, we want to extract some information and learn insights about how these interconnected systems behave in real world.
+- **Graph (Network) Mining**: Graphs represent all sorts of interconnected systems such as the world wide web, brains, social networks, protein interactions and so on. In graph mining, we want to extract some information and learn insights about how these interconnected systems behave in real world. Nowadays, I'm working on the following problems:
+  * **Embeddings in Temporal Graphs** is still not a thoroughly explored area. Embeddings that are used in temporal / dynamic graphs are generally generated on the snapshots graphs that are taken over time. However, it is very un-insightful how frequent the snapshots should be generated, which embeddings method should be used, or can one utilize a combination of embeddings from the latest snapshots to reason better about the upcoming snapshots.
+  * **Multiple Temporal Graph Summarization** aims to generate a summary temporal trajectory, from many temporal trajectories. For instance, given many child connectomes over time, can we find the _normal_ brain development for children? What is more, can we predict anomalous cases of brain development beforehand?
 
 - **Data Stream Mining**: Data streams are environments where data with high volume arrives continuously. I tackled multiple problems that take place in data streams throughout my Master's degree years:
   * **Multi-label classification** is a task where we want to classify instances into a subset of labels rather than one of them, i.e. $y^* \subset \mathcal{L}$. We want to handle this exponentially behaving label space while performing well on the data stream, and adapting the possible changes in the mappings between the data instances and the solution space (called concept drifts).
@@ -29,7 +31,7 @@ Formerly, I was a member of [Bilkent Information Retrieval Group (BilIR)](http:/
   * **Multi-label synthetic data stream generation** where we want to realistically model multi-label stream generators using single-label data stream generators. We also want to be able to simulate all kinds of different concept drifts (gradual, sudden, reoccurring and so on).
   * **Ensemble pruning** where we want to drastically decrease the size of our ensemble while preserving its predictive performance and diversity at the same time.
 
-- **Adversarial Attacks and Adversarial Example Generation**: See a [survey](http://github.com/abuyukcakir/adversarial-training-survey) from the first year of my M.Sc. degree. This is an introductory article that assumes no prior knowledge on adversarial learning whatsoever.
+<!-- - **Adversarial Attacks and Adversarial Example Generation**: See a [survey](http://github.com/abuyukcakir/adversarial-training-survey) from the first year of my M.Sc. degree. This is an introductory article that assumes no prior knowledge on adversarial learning whatsoever. -->
 
 
 ### Miscellaneous
