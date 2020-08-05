@@ -21,4 +21,4 @@ author_profile: true
 
 **CS224 - Computer Organization**: MIPS assembly, Verilog, single-cycle, multi-cycle and pipelined datapaths
 
-**CS281 - Computers  and  Data  Organization**: : Databases,  Relational Model, SQL.
+**CS281 - Computers  and  Data  Organization**: Databases,  Relational Model, SQL.

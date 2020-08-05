@@ -5,6 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 
+### 5 Aug 2020
+Published a blog post (in Turkish) on Ph.D. and mental health [here](../posts/depresyon-doktoranin-sanindandir/).
+
 ### 3 Sep 2019
 I arrived at Ann Arbor, MI on August 26th. After a week of orientation programs, welcome parties and city exploration, I finally started my Ph.D. journey at University of Michigan, Ann Arbor. Meanwhile, I moved into a home in Northwood IV, a lovely place at the North Campus.
 
