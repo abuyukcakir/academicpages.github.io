@@ -7,7 +7,9 @@ author_profile: true
 
 ### 2020
 
-- Puja Trivedi<sup>1</sup>, Alican Büyükçakır<sup>1</sup>, Yin Lin, Yinlong Qian, Di Jin, Danai Koutra. 2020. On Structural vs. Proximity-based Temporal Node Embeddings. In <i>MLG '20: 16th International Workshop on Mining and Learning with Graphs, Aug 24, 2020, Online</i>, 6 pages + 2 pages of Supplementary Material.
+- Caleb Belth, Alican Büyükçakır, Danai Koutra. 2020. A Hidden Challenge of Link Prediction: Which Pairs to Check? In <i>ICDM'20</i>. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9338267). 
+
+- Puja Trivedi<sup>1</sup>, Alican Büyükçakır<sup>1</sup>, Yin Lin, Yinlong Qian, Di Jin, Danai Koutra. 2020. On Structural vs. Proximity-based Temporal Node Embeddings. In <i>MLG '20: 16th International Workshop on Mining and Learning with Graphs at KDD'20, Aug 24, 2020, Online</i>, 6 pages + 2 pages of Supplementary Material. [[pdf]](http://www.mlgworkshop.org/2020/papers/MLG2020_paper_37.pdf)
 
 ### 2019
 
